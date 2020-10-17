@@ -71,7 +71,14 @@
 </tbody>
 </table>
 
+<br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="PerciVal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PerciValXIII_icons=true&theme=cobalt" />
+
+</details>
 
 
 
