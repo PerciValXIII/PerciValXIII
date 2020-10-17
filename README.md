@@ -76,7 +76,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="PerciVal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PerciValXIII_icons=true&theme=cobalt" />
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PerciValXIII&show_icons=true&theme=cobalt)
 
 </details>
 
