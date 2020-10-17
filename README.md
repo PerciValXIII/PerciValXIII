@@ -13,7 +13,8 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 <br />
 
 ### Software And Services Worked On :computer:
@@ -81,3 +82,4 @@
 [youtube]: https://www.youtube.com/channel/UCN8BXMS-mFeY1BOB5SP_-ZQ?view_as=subscriber
 [instagram]: https://www.instagram.com/swattik_13/
 [linkedin]: https://www.linkedin.com/in/swattik-maiti-6615b31a3/
+[discord]: https://discord.gg/FMYEx8j
