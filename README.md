@@ -61,7 +61,7 @@
 </td>
  <td align="center" width="20%">
 <span><b><center>Figma</center></b></span> 
-<img height=65px src="https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png"> 
+<img height=65px src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/landscape/figma-1-logo.png"> 
 </td>
 <td align="center" width="20%">
 <span><b><center>React Js</center></b></span> 
