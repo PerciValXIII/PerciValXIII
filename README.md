@@ -60,8 +60,8 @@
 </td>
 </td>
  <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/1920px-MongoDB-Logo.svg.png"> 
+<span><b><center>Figma</center></b></span> 
+<img height=65px src="https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png"> 
 </td>
 <td align="center" width="20%">
 <span><b><center>React Js</center></b></span> 
