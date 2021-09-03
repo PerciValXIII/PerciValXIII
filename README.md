@@ -2,7 +2,7 @@
 
 ## About Me:
 
-* I am a 3rd year student of Vellore Institute of Technology in Computer Science Engineering.
+* I am a 4TH year student of Vellore Institute of Technology in Computer Science Engineering.
 * I am the current Chairperson of Technology And Gaming Club (TAG) - VIT Vellore.
 * I have experience in the field of Frontend Development, Backend Development, Python Development, Machine learning and Neural Networks. 
 * ⚡I am a semi-professional CSGO and Valorant player. 
