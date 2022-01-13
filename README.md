@@ -1,4 +1,4 @@
-### Hello World!!! I am Swattik Maiti aka PerciVal
+### Hello World!!! I am Swattik Maiti
 
 ## About Me:
 
