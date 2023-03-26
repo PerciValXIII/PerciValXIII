@@ -2,9 +2,10 @@
 
 ## About Me:
 
-* I am a 4TH year student of Vellore Institute of Technology in Computer Science Engineering.
-* I have experience in the field of Frontend Development, Backend Development, Python Development, Machine learning and Neural Networks. 
-* ⚡I am a semi-professional CSGO and Valorant player. 
+* I am a Data Science Engineer and ML Developer with a work experince of about a year.
+* Experience in working as a data engineer and analyst in the Financial Services domain.
+* Extensive experience with web analytics and marketing tech stack such as Google Analytics, Looker Studio, Google Tag Manager, Google Ads etc.
+* ⚡I am a semi-professional CSGO player. 
 
 ### Connect with me:
 
