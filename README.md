@@ -2,8 +2,8 @@
 
 ## About Me:
 
-* I am a Data Science Engineer and ML Developer with a work experince of about a year.
-* Experience in working as a data engineer and analyst in the Financial Services domain.
+* I am a Data Science Engineer and ML Developer with a work experince of over 2.5 years.
+* Experience in working as a data science engineer and analyst in the Financial Services domain.
 * Extensive experience with web analytics and marketing tech stack such as Google Analytics, Looker Studio, Google Tag Manager, Google Ads etc.
 * ⚡I am a semi-professional CSGO player. 
 
