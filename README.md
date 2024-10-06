@@ -16,7 +16,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
-
+<>
 ### Software And Services Worked On :computer:
 
 <br>
@@ -72,7 +72,7 @@
 </table>
 
 <br />
-
+<>
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PerciValXIII&show_icons=true&theme=tokyonight)
 
